@@ -1,0 +1,26 @@
+body    {
+    background-color:brown;
+}
+
+img {
+    width: 20em;
+    height: 20em;
+}
+
+h1  {
+    font-family:Arial, Helvetica, sans-serif;
+    color: black;
+    background-color: aqua;
+}
+h2  {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-style: italic;
+    background-color: violet;
+}
+a   {
+    background-color: yellowgreen;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    /* text-align: left; */ 
+}
